@@ -44,3 +44,8 @@ A: Sure!
 BTC:
 
 <img src="https://raw.githubusercontent.com/rodrigocaldeira/rodrigocaldeira/main/btc.svg"/>
+
+Doge:
+
+<img src="https://raw.githubusercontent.com/rodrigocaldeira/rodrigocaldeira/main/doge.svg"/>
+
