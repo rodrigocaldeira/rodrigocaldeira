@@ -22,7 +22,7 @@ Databases: PostgreSQL, MySQL, MSSQL, MongoDB, Redis
 
 Frameworks: Phoenix, Flutter, ReactJS, .netcore
 
-It's really hard to tell everything. The real thing is, if I need to solve a problem using something that I didn't know, I'm gonna learn it.
+It's really hard to tell everything. The real thing is, if I need to solve a problem using something that I don't know, I'm gonna learn it.
 
 
 **Q: So you are a FullStack dev, right?**
