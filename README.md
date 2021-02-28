@@ -48,11 +48,4 @@ A: No.
 
 A: Sure!
 
-BTC: bc1q6pcc0alf6jklx4ktrr469qdge8zvpzexe25mft
-
-<img src="https://raw.githubusercontent.com/rodrigocaldeira/rodrigocaldeira/main/btc.svg"/>
-
-Doge: DLaX77SmR23U5xrZGtDbjsfpZbfTaRcGg5
-
-<img src="https://raw.githubusercontent.com/rodrigocaldeira/rodrigocaldeira/main/doge.svg"/>
-
+BTC: **1D8dSSwPW1mSraEV9Pd96cGtfYtSmCZs46**
