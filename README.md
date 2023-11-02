@@ -6,7 +6,7 @@ A: Rodrigo Caldeira de Paula Lima
 
 **Q: What do you do?**
 
-A: I'm software engineer since 2001
+A: I'm a software engineer since 2001
 
 **Q: What kind of projects did you work to?**
 
