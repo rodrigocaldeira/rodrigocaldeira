@@ -38,7 +38,7 @@ A: Because I never needed it to and never had any problems with the projects I u
 
 **Q: Where are working now?**
 
-A: To be updated
+A: CloudWalk, Inc
 
 **Q: And are you open to work, or considering to work at somewhere else?**
 
