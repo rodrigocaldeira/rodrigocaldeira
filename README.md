@@ -30,11 +30,13 @@ A: No. Most of my knowledge is on backend realm.
 
 **Q: Do you contribute on open source/free software projects?**
 
-A: No.
+A: Yes.
 
-**Q: Why not?**
+**Q: Which ones?**
 
-A: Because I never needed it to and never had any problems with the projects I used.
+A: Only one, for now
+
+- [New Relic's Elixir Agent](https://github.com/newrelic/elixir_agent)
 
 **Q: Where are working now?**
 
