@@ -40,14 +40,8 @@ A: Only one, for now
 
 **Q: Where are working now?**
 
-A: CloudWalk, Inc
+A: Nubank
 
 **Q: And are you open to work, or considering to work at somewhere else?**
 
 A: No.
-
-**Q: Well... can I at least buy you some coffee?**
-
-A: Sure!
-
-BTC: **1D8dSSwPW1mSraEV9Pd96cGtfYtSmCZs46**
