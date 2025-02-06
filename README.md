@@ -38,7 +38,7 @@ A: Only one, for now
 
 - [New Relic's Elixir Agent](https://github.com/newrelic/elixir_agent)
 
-**Q: Where are working now?**
+**Q: Where are you working at now?**
 
 A: Nubank
 
